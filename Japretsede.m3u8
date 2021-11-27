@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=3955987,AVERAGE-BANDWIDTH=3736196,RESOLUTION=1280x720,FRAME-RATE=59.940,CODECS="avc1.640029,mp4a.40.2"
-http://88.barouhn.xyz.global.prod.fastly.net/live/61512788870/index.m3u8
+https://d1nr15iwgim2e4.cloudfront.net/streaming/de695a046726d8e3a117429e301c4e8e_mv_ls_low/index.m3u8
