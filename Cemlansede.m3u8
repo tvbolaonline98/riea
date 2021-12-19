@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=3955987,AVERAGE-BANDWIDTH=3736196,RESOLUTION=1280x720,FRAME-RATE=59.940,CODECS="avc1.640029,mp4a.40.2"
-https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/rMBhoyKCIKzYmQg-yealnQLjh36HK689Px0__10pbfTLatiYzUJtyJNUSM4aluaw1XDYqoh40YmBFuLb1hmfHg/non_transcode/us-west-2/periscope-replay-direct-prod-eu-central-1-public/dynamic_highlatency.m3u8?type=live
+https://d3kty3byhi95wm.cloudfront.net/out/v1/800af9eecdc74b9fbce44259500790ce/index_3.m3u8
