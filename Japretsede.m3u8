@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=3955987,AVERAGE-BANDWIDTH=3736196,RESOLUTION=1280x720,FRAME-RATE=59.940,CODECS="avc1.640029,mp4a.40.2"
-https://video1.maxline.by:444/o/stream03/chunks.m3u8?nimblesessionid=8625571&wmsAuthSign=c2VydmVyX3RpbWU9MS85LzIwMjIgNTowMDowMCBQTSZoYXNoX3ZhbHVlPWpiTUxSS0ZRbFFmYmM4RTMxclQ3UWc9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTI=
+https://prod-fastly-sa-east-1.video.pscp.tv/Transcoding/v1/hls/I3NXiRFVpcoX7EOMeINU_oMFIH1FvSXB4qt4vjrPlkaXniKvFsn7ggM1m5YDUlJpnWVPatihg83o7miy68HQ8w/non_transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/dynamic_highlatency.m3u8?type=live
