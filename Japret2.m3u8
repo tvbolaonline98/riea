@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://play.szbbnrt.com/rrty/hd-en-1-3664769.m3u8?txSecret=db645ad6369841c2a0288277f6db1fbe&txTime=61DF4913
+http://hls.luziedu.com/livestream/ch6/playlist.m3u8?t=1642273452&a=114.10.19.26&u=46daec7f7f9a30a34fed293780214f13&k=ab0b15ed2ad799ceb2cde794efcd2160
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-http://livehls.ltjuq.top/ofmatch/HD154496.m3u8?auth_key=1642023798-ce76689401b97b8a74085c48270fec6c-0-a896f91bf7994dad4b821b4d50d1075c
+link
