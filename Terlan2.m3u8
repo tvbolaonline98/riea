@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=3955987,AVERAGE-BANDWIDTH=3736196,RESOLUTION=1280x720,FRAME-RATE=59.940,CODECS="avc1.640029,mp4a.40.2"
-http://hls.luziedu.com/livestream/ch6/playlist.m3u8?t=1641754733&a=114.10.22.232&u=9147c9f1a3d40048a5725badabe27136&k=4021048120993a7fa543096e6cd4cf2d
+https://prod-fastly-sa-east-1.video.pscp.tv/Transcoding/v1/hls/0R9L3L64yDOyIh32leaxnM6OykGjJEsTBfEW0RtptJeWH0b4e0SQ1DViXxb3Gb68KPUol7Y9lH1fatwyMml77w/non_transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/dynamic_highlatency.m3u8?type=live
