@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=3955987,AVERAGE-BANDWIDTH=3736196,RESOLUTION=1280x720,FRAME-RATE=59.940,CODECS="avc1.640029,mp4a.40.2"
-https://cdnshoot-euwe.streaming.media.azure.net/45b77b86-53eb-4838-8ed3-81cd169cd5e4/7f3ee41e-c604-4d21-ac9e-eb38e5599eb4.ism/QualityLevels(550000)/Manifest(video,format=m3u8-aapl)
+https://live01-ali.myeogm.com/live/gutiyu5.m3u8?auth_key=1644779100-157d625cd69c4e5c9793c7cec954346f-0-cf1153ccf8e98ffe6f71fcd59842337d
