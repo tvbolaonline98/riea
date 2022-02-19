@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://live01-ali.myeogm.com/live/gutiyu8.m3u8?auth_key=1645307400-4cab3999dee84a73912890680736fd02-0-ba8a8f278c0c501512de8fd8fa358f1a
+https://d3rwour00l8w6d.cloudfront.net/stream/MjkxNw==/1080p.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-ll
+https://live01-ali.myeogm.com/live/gutiyu8.m3u8?auth_key=1645307400-4cab3999dee84a73912890680736fd02-0-ba8a8f278c0c501512de8fd8fa358f1a
