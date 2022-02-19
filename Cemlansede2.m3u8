@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://play.brasiltvweb.com/v3/youshi/m3_ScQBL06LuJftF_480p.m3u8?session_id=pXxENpvpN7XE&app_ver=10101&auth_id=42166598_com.global.brasiltvweb&client_ip=2804:5484:a:b6e0:b03b:7231:2f79:efec&user_id=42166598&app_id=com.global.brasiltvweb&dev_limit=1&main_addr=https://play.brasiltvweb.com/v3/youshi/&spared_addr=https://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&dev_id=47ee8c47&expired=1644762770&token=B9190D3A38C88099B21BE077A3F49E22&media_code=m3_ScQBL06LuJftF_264
+https://play.brasiltvweb.com/v3/youshi/m1_ZLeLkHOSgiYq548T_480p.m3u8?user_id=42166598&client_ip=45.165.28.16&session_id=8hvssbbm2tr&auth_id=42166598_com.global.brasiltvweb&app_id=com.global.brasiltvweb&dev_limit=1&app_ver=10101&dev_id=8969f81e&spared_addr=https://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&main_addr=https://play.brasiltvweb.com/v3/youshi/&expired=1645302256&token=FD285B770F2A096E7804D3D01817E069&media_code=m1_ZLeLkHOSgiYq548T_480p
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 link
