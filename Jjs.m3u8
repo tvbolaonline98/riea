@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=3955987,AVERAGE-BANDWIDTH=3736196,RESOLUTION=1080x2400,FRAME-RATE=59.940,CODECS="avc1.640029,mp4a.40.2"
-https://play.brasiltvweb.com/v3/youshi/m2_AkF7moyJqBpWr5L3ctZXu8D6_480p.m3u8?user_id=42166598&app_id=com.global.brasiltvweb&session_id=huk1MVI5F2pG&auth_id=42166598_com.global.brasiltvweb&app_ver=10101&client_ip=2804:5310:50b9:a900:a8d4:2601:8a26:f386&dev_limit=1&dev_id=1d85131d&rst_status=0&spared_addr=https://105m3u8.epg-kc.com/v3/youshi/&main_addr=https://play.brasiltvweb.com/v3/youshi/&expired=1645899160&token=B8BFF5712EF70C9ADB4F7DDE5AC335E1&media_code=m2_AkF7moyJqBpWr5L3ctZXu8D6_720p
+http://hls.luziedu.com/livestream/ch12/playlist.m3u8?t=1645900303&a=114.10.22.151&u=52cc1951f63a8132450cf7cd1513eb6a&k=f146c57ea67d437e713f83d6cad610b8
