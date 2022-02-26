@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=3955987,AVERAGE-BANDWIDTH=3736196,RESOLUTION=1280x720,FRAME-RATE=59.940,CODECS="avc1.640029,mp4a.40.2"
-https://vsd94.mycdn.me/hls/2259214994104.m3u8/sig/TDKYI4LJw58/expires/1645980250514/srcIp/114.10.22.151/clientType/0/srcAg/CHROME_ANDROID/mid/3268542275256/2259214994104_high/index.m3u8?p
+https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/qMebuMrtl1KQ_ed4SAW-e083gyg1VI4BwUC-1C_7fVrdPKO8AertavLGqYlSA14KLKaouLbUHRa4D2xe_hhEmQ/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
