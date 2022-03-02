@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=3955987,AVERAGE-BANDWIDTH=3736196,RESOLUTION=1080x2400,FRAME-RATE=59.940,CODECS="avc1.640029,mp4a.40.2"
-http://hls.luziedu.com/livestream/ch12/playlist.m3u8?t=1645900303&a=114.10.22.151&u=52cc1951f63a8132450cf7cd1513eb6a&k=f146c57ea67d437e713f83d6cad610b8
+https://admdn1ta.cdn.mangomolo.com/adsports1/adsports1.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
