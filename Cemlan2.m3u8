@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://dcisiz1qfkk6q.cloudfront.net/stream/MzA0OQ==/1080p.m3u8
+http://hls.luziedu.com/livestream/ch27/playlist.m3u8?t=1646593385&a=114.10.8.246&u=3b163cc20a5f579d5e3c04bc4db493b3&k=dca1baaf6667e7c69c0e7c714aae1a3b
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/qa867R_X9_dYr6v39Ti1tlNETt6BrdIIMq_Zt1GPANUNXA8QXpbWzipU0f6tS3AT0RtFRdYVR7lA8XQH6I7kZQ/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
