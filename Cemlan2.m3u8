@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://d17lu2syx7ax41.cloudfront.net/live/streamhd7144.m3u8?Expires=1647148800&Signature=Wa2YrQUrCasIAQJZFR14j6ZKtMw6x-pHDBg1AhQ1ln9-YpxKMiSYzns8JG1JxTnJKCMrmAcE6hLXjSI30jNk89oHH6qDhyYFDkml0JFAW9x01qpHPe7oVU7zcqgKZZhVjBO9TAz1zBKf2Pf3CidPVjtRav77I69Ud~qmpiqIjdrvdvPlk1U6ttc31BAOZwwNC8AkK0DNomksZ8AlYgreUSQmZgMFdNwcPb0PtIpNy1ZO56dlYWZawePht3uC-hWbenlQseCKI8tyczb7I-1azIFsOCPr47OSdTwCSeELuKA5-9HOk58kHRHllN4JioALDWktUlhK1-kE9S-2Wq07qQ__&Key-Pair-Id=K1SXOWNSQGJT65
+lklk
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-http://d398ck7175fu78.cloudfront.net/stream/MzE4Ng==/1080p.m3u8
+https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/6AbzEHrL_a1j9hJyNHmHSja_hVXmsEHFItA8CtnfWGjHjiB_UOwJhXFDyMzdlKM1beP52Z6P_mCbsgdMaMUU3Q/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
