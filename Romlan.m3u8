@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=3955987,AVERAGE-BANDWIDTH=3736196,RESOLUTION=1280x720,FRAME-RATE=59.940,CODECS="avc1.640029,mp4a.40.2"
-https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/A66ZBASp6RA9O4u2nw-mRppWu_ipCXG9WvcDb2LC2a4URD0rxO2RRvDmbTRQ2ztgqmVLUWXSM3jak9m0XM7rIg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
+https://d17lu2syx7ax41.cloudfront.net/live/streamcnhd334190.m3u8?Expires=1647830100&Signature=MZz8qE8sDZv2~dwf72s~x0aC2KklncifFnhLhBneOI7GSa6f4Tg7c5aM1SbY5xN6bW-QwwPsgYw~NXGfHfORX9LeZGLvmR1lSX5ppsA1koy3lA2D4k5FszjgVPJ6Qu-Mn78aKU7X9UGgZyvyYbHAMO4l1pMhdgBaXomte9x0cCB1lMXNatwy~yNj-UZV19DS7sw3RM7Z1wpSGl5vGX-AxzlhCxtmFELREFj1HrtqoKBcC0cdWgoDDvs~EOw08sRItrD7q8IxRW1k6OYxyQzxLCa-7Gzq6ui4Nt1U4CRTW-5G2EXJjQelOdvX7xGe0qaASUk9Ns7gul0fpiwGgUwx0A__&Key-Pair-Id=K1SXOWNSQGJT65
