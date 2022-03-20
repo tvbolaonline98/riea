@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://d17lu2syx7ax41.cloudfront.net/live/streamcnhd334190.m3u8?Expires=1647225300&Signature=NcdEtXnXe9Pvt0fHQ-rrRDOjYZLAD1o-U9ZeUmFFLb4cW3aXdbej2T4BCo83X68zQCuM3YLfjmT~r5o6QgUSahpw1L6OAWNF0wemFSwq6TSEOOe0Me7jG6vMLTgk03eM31RACaviPxclXSNCWsfZOhFdCjO7JlcogV-TRpg411KTyIyWmh1bz7MIiENBh8iOzI7yma1JIKIeuIFVQBfAc43eGvXYjRVBPAnGHDdwlWQ9yGKXcE0aYBiPLlljyWqYPRFEmpDKziTpIkdRlOcOuVbipflVQZflJR0DAsx7Y-~Tl2uNvpg7Ub4v1eCcmS7bCPqUGBQKMu3s3uq6~yr7XA__&Key-Pair-Id=K1SXOWNSQGJT65
+https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/sXgzd_zqy8vMjjVpLULOhSA2kFeMUqwGN6F4bASeV3JLnhFSqpzoKvebSXX1olJozNI2RDALxy39JStgtsU5yw/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-http://hls.luziedu.com/livestream/ch17/playlist.m3u8?t=1647190186&a=114.10.19.140&u=e8fcdb42e84fbe33b71fbd8ad9131a9c&k=fc861f4165b528ad4fb82111d821d29a
+lklk
