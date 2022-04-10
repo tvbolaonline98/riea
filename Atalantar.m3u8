@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://d17lu2syx7ax41.cloudfront.net/live/streamcnhd7112.m3u8?Expires=1647840000&Signature=AMG~MmEIl0HbalwKVMYfbvtiNlxm5iRBY8F3pdOkNF-QN9-mOHpTnsBeIH88n7YOOMj3mqLqKLMg~VDRg7EyX9crplaE6GtfyYREbj4ygKEvRl5w~fxqI8micLbk8F3si8peD~UCU7jBniq01u2LGzyXbWSWbYoJZOGqSpjRmx4MP0Yfnf~BrNWxoJwdUi8rIztvdGlRX7TWxTgzlBRJUe5uk3bvSO3TnbW0Qwrsb69sUazfiFNXEGK19964ObURxzvDgms~3HX98IAoj7KP~l32pJMwjh-YduHTAYGcmWGCq9jf24cpMTZptLu3QEjx8ICQxotxHadhrSdNla5kDA__&Key-Pair-Id=K1SXOWNSQGJT65
+https://acdn.zhengyaning.com/xoilac/channel-8.m3u8?auth_key=1645859421-0-0-f41d5ef6017c01d6b3b23d7e009cdf9c
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-http://hls.luziedu.com/livestream/ch12/playlist.m3u8?t=1647805260&a=114.10.6.38&u=d25c2c036eefec395a290e86890e73a3&k=ea90a11c03398815b3ff6364b84b2b94
+lkl
