@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://d17lu2syx7ax41.cloudfront.net/live/streamhd7096.m3u8?Expires=1649132400&Signature=ioLQpWafFPnv057T6Q3-uaKn1b60mnEVqtdjOmMSVLF~GwdUiTtfgH5PJSJJD-CBJtU4osYdRoU5w1hGgzsQ11z~ao-YyqNOc-rneuP5P~QGPe08E3kNTQ~LvMmQyg11OE3XJBD-T6vqsNXGewwd-DLoeqI~bi-~1nF2wW3QbZYT7hDYNVzgt7w9eEGg7iUu2cLvaI7PRvT5y~Q3XGTm-yy8fBo4p1D746cW9wMVeE5yJIET8M~8aI49A~LRxLLXpAG4om1Csi9r~VRflmuq1JvEztyhkYWTxY6ur4To2vpHjgpR2sMEYVSqx-TM7fzlYDsCFF8fJMdQil5lU7Pymg__&Key-Pair-Id=K1SXOWNSQGJT65
+lkl
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/FHN2joomNP9Lz2KJHY2RZGlDlNyOuAA-az-Rjir-l-tptJAKZTlOGTKt0avn0n009IE-C9uPdt3G6WfRv_KcmA/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
+https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/ke7GoHVOlzm5tndG1KTe7TxNODEStQtstuRLzaaJfMP6SkbsQ51BDdHUrQrt68NXuWDJbNY881NBWZ5gc5MD8Q/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
