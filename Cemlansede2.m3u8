@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://live-ak.vimeocdn.com/exp=1650396748~acl=%2F4b3399a5-784e-4bc2-a2a9-8fbb72053454%2F%2A~hmac=21578cd10fa6645a076a5ab2d896dae1e3a8d6c73ec63f0c79dc38f6e603e6a6/4b3399a5-784e-4bc2-a2a9-8fbb72053454/chunklist_b728000.m3u8
+https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/bGAGlJJsG-S6Yu32-O1lFijbImDarajDunZs0-vLM7bkLi8vtlI6tB7Sdn42xe3bh4MRKxQ6IY28q8TaUI39HQ/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tm_dynamic_highlatency.m3u8?type=live
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
