@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/8k1UOVU3kVFK5JFqmtX8Xv27nllDukYzZ2Lti1hahS-XfqAuk5dYGZoL_AnOZjFTvM4y0HHdiL1GiViId_YHNQ/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/dynamic_highlatency.m3u8?type=live
+lkl
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-lklk
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
