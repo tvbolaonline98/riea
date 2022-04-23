@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://alplay.zhengyaning.com/xoilac/channel-3.m3u8?auth_key=1650270558-0-0-cbb563d4f1f3b8cc89aa7d3466bd4b47
+http://hls.luziedu.com/livestream/ch21/playlist.m3u8?t=1650715438&a=114.10.18.113&u=a615a5ae4bcddc941f85a86cfd44a10f&k=0c6c442f919bb4415529849627aa94ce
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 lkl
