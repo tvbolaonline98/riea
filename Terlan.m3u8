@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://d28c1d458041.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.303903229440.channel.OSZZ1xigeDtj.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 lkl
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
+https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/jirqvh2JG2xFE-fn5Qhz4Huu2A2_OwmCvo9R9P4k3ZUu_0PepAJtu7eTfZ44QF3hcGy-cFrqftTE8lTXS8uXMQ/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjgyNCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjExMDR9.Kr-33YPqc2Ul9BkM1PDDx2J2An6stK16OmzZ7cQByDc/tm_dynamic_highlatency.m3u8?type=live
