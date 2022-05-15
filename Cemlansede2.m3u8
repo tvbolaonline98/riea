@@ -3,4 +3,4 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
 lk
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://5e60bc04a6fb6e2ef8d88dd5d6d6488c.s3.eu-central-1.amazonaws.com/4bb2dfbb3b0edc9965888b3ce80134a9/live_240p30.m3u8
+https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/l8qktMJzghkjv7kQ9bb3wJjri6KYhT7L0Q_7zqMqm3Ri3Z36mt-HPScNrX1jfWsBJMANhKXNQz5SGUWkU67PnQ/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/dynamic_highlatency.m3u8?type=live
