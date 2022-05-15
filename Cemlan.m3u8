@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/RuPMiYJQklodUmeXYqMqHrC5CBFYsZxddLyPIllio3m17e-dCC61Dlynyno35s5pnTu8W4Qcvb3zC_rkV5aX2w/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tm_dynamic_highlatency.m3u8?type=live
+https://video2.kgkco.com/org/49798758/playlist.m3u8?time=1652647209&auth_token=953e6b6a387db65b5870537e6e1b9ae3&wsSession=441545f1372a5677bb1036c8-165263641596318&wsIPSercert=32491c645e7a00e8f9e269f65adf2311&wsMonitor=0
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 https://venus.meta-scores.com/f55e8b5bfc/f55e8b5bfc@720p.m3u8
