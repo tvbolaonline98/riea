@@ -3,4 +3,4 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
 https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/iH_E4OqRGmyVpBPC3YnVbR3HRff13C5gXHo9PEvciekDwxkOuUF-eGggIp9CAMpWmTYF2EFXUWrQuFaZgzzAUA/transcode/us-west-2/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-l
+https://jq9sucdqmflivnt.vcdn.com.vn/may71/may71@456.m3u8?hdnts=exp=1653263567~acl=/may71*~hmac=9c454616f1161817690303bdefeeb9f89f78ea694ad9c11764c88817857c1fb5
