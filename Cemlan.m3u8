@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://video2.kgkco.com/org/49798758/playlist.m3u8?time=1652647209&auth_token=953e6b6a387db65b5870537e6e1b9ae3&wsSession=441545f1372a5677bb1036c8-165263641596318&wsIPSercert=32491c645e7a00e8f9e269f65adf2311&wsMonitor=0
+lk
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://venus.meta-scores.com/f55e8b5bfc/f55e8b5bfc@720p.m3u8
+https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/w8mLJoG9FWqHvaNqKJ-dEOZqcNZbXUq8x-6h_3TKuaI5keiKDPdbH0P-36YibcGalBGE7YUPIjtjXizW9YUhYw/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/tm_dynamic_highlatency.m3u8?type=live
