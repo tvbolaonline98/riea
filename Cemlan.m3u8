@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:5
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_360p_chunks.m3u8
+l
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-http://livehls2.ltjuq.top/ofmatch/647091.m3u8?auth_key=1657989240-9945fbc31db4d1c9480b98c1585c1e5f-0-b3538e7e9e28e112da078b31c6bfdc02
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_360p_chunks.m3u8
