@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-http://livehls.ltjuq.top/ofmatch/64241701.m3u8?auth_key=1658545584-864a5fc16b0b7206a19d55aaf87f0b9b-0-b8436011828d088f9ec2292915db7d9a
+https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/n1WfHxfqN0o1BNgz2kVCPNtx0bM5SP1JOUph4LaE9tNRYg_U3YC2I72a32ks3-uiRMNvsjFm_8vav3TN4M0XAA/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/tw_dynamic_highlatency.m3u8?type=live
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://craff23.s.llnwi.net/live/streamhd257206.m3u8
+l
