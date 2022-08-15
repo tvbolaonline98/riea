@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/5MgaBuk7Rw8m08Jvr-RqYj4wrEfLiDoxV6rg_Hzs6NH2fVjGEW8PAhqpNCQP10mUvnrbOpj0oP-8Yw0oHGBDqg/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8?type=live
+https://live-2-333.uma.media/LIVE/LIVE:407384/HLS/1660602702/Tm2yIfSFOosMvMOZqNGm7Q/live/407384_7/chunklist.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-http://50.7.92.90/Match_Futbol_1_HD/mono.m3u8
+https://live-2-333.uma.media/LIVE/LIVE:407384/HLS/1660602702/Tm2yIfSFOosMvMOZqNGm7Q/live/407384_7/chunklist.m3u8
