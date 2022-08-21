@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://pull.zygmsg.com/armenia/784338623.m3u8?auth_key=1661115482-0-0-d6d91c368eb654b0cfda2fa638209de5
+http://akamai2-me.cdn.booyah.live/hls_go/2000000/120369652.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://pull.zygmsg.com/armenia/784338623.m3u8?auth_key=1661115120-0-0-dcb9ecc007a92ba633eeb30a93d7cc47
+https://pull.zygmsg.com/armenia/784338623.m3u8?auth_key=1661115482-0-0-d6d91c368eb654b0cfda2fa638209de5
