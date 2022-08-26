@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-l
+https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/hmoqrSazpdt7cSDNLLLVNEUW8qOWjT6AfpMYsBu-pgs9W-dgfSyHzOt-mtfExiqtBEOUzUZy5sOcLJx935Va9A/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tw_master_dynamic_highlatency.m3u8?type=live
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 https://pull.zygmsg.com/armenia/640270911.m3u8?auth_key=1661555219-0-0-b2b05eb2be0e4772f4928779084b06d5
