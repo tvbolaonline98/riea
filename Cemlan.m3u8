@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://schurch1.bozztv.com/livecdn164/myStream.sdp/chunklist.m3u8
+https://pull.zygmsg.com/armenia/476915642.m3u8?auth_key=1662506340-0-0-c3aa45a7d33e3382e60645409eaa3617
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-l
+https://schurch1.bozztv.com/livecdn164/myStream.sdp/chunklist.m3u8
