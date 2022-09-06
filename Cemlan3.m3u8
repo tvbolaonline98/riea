@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://vsd115.mycdn.me/hls/2958972488273.m3u8/sig/tBjBxeZDwL8/expires/1661192319060/srcIp/114.10.22.114/clientType/0/srcAg/CHROME_ANDROID/mid/4788449910353/2958972488273_medium/index.m3u8?p
+https://bal.varcdn.top/app/m3/tracks-v1a1/mono.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 https://pull.zygmsg.com/armenia/841724427.m3u8?auth_key=1661123040-0-0-25accfd417f7e4a7d32af02b1ce2bb5c
