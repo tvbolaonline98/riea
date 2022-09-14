@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://manifest-gce-us-east4-production.fastly.mux.com/1u4yQxQgpk5CT62vlCx8CGLTZQCY1plwgMfRZNQSbFw2CKbyesneFKDaidxq6TyGSadQbRtKrjbFrnj4L3M7Zm02bhPM5ykQ8Z1Fv00m5Sx8Y/rendition.m3u8?cdn=fastly&exclude_pdt=false&expires=1663779600&live=1&skid=default&signature=NjMyYjQzMTBfMWQxOWU0YzE4ZjkxMDkwNzg3YjQzZjVkZjU5NDk2MGNhMjY5NmE4NDE4NTQ0MzljOTM3NTYwYTc4M2JlMzZhMQ==
+https://sun.meta-scores.com/1134690d08/1134690d08@720p.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@123SD/chunklist.m3u8
