@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://video2.kgkco.com/org/49798797/playlist.m3u8?time=1652728987&auth_token=23f485dbbff018f6d26ae72da4bcbd2c&wsSession=c89de9311b60dd0e999ab7a8-165271819204645&wsIPSercert=603094682eab9e4a0562af2c95ce7fa1&wsMonitor=0
+l
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://venus.meta-scores.com/6f769b5228/6f769b5228@720p.m3u8
+https://tv.tas-ix.tv/hls/token_28.m3u8
