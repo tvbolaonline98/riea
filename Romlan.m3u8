@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://pull-hls-l11-sg01.ttlivecdn.com/game/stream-2993917025370767460_sd.m3u8
+https://manifest-gce-us-east4-production.fastly.mux.com/kMBiBP601kyzNExvvjl1o5ZLA85OiEkAKhv00q5Sv00Ro39HfkPLC5qDWv02XKk01cLhEy82jk7w9g5HuD2dEm0045L00QaS9VU1mbQ/rendition.m3u8?cdn=fastly&exclude_pdt=false&expires=1664121600&live=1&skid=default&signature=NjMzMDdiMDBfMTQyNjI2NmZhMzQ4NDIzYTgyNzY2N2UyOThlNWVlMTJiYjQ3ZjNmYzE4YTU1OWQ0YTQwMzhhMTFjNDVkZjI1Ng==
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://schurch2.bozztv.com/livecdn255/myStream.sdp/chunklist.m3u8
+l
