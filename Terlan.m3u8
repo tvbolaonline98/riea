@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://vsd132.mycdn.me/hls/3044121381457.m3u8/sig/lUfBpl2Mo-k/expires/1663582604192/srcIp/114.10.16.168/clientType/0/srcAg/CHROME_ANDROID/mid/4889882467921/3044121381457_medium/index.m3u8?p
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/7oZcvNUpEolrjkcv9rryHooGvXUYftTVqzhM69E0CzmTMbUHb8cM6OitG9hXasrv78uWT_Y4Ur6jbPEgZfoEvw/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tw_dynamic_hlsproducer.m3u8?type=live
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8
