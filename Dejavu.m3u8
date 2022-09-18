@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://playvideo.kqbd.com/live/3808667.m3u8?txSecret=d34ad88a261c7a5d2a4b7274499fffb0&txTime=63212FA4
+https://sasss-usea.streaming.media.azure.net/93c8206b-3b08-48b6-9294-1283aa03af37/output-20220918-113055-manifest.ism/QualityLevels(550000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio_und)
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://oqpaxbybfxliv.vcdn.cloud/324/324@720p.m3u8
+l
